@@ -46,7 +46,9 @@
     <!-- Build date, parsed? -->
     <string name="bootleggers_build_date">Build date</string>
     <!-- About phone screen, device maintainer name -->
-    <string name="device_maintainer">Who to blame (Maintainer)</string>
+
+    <string name="maintainer">Who to blame (Maintainer)</string>
+
     <!-- Build types, now with translations -->
     <string name="bootleg_type_official">Official</string>
     <string name="bootleg_type_unofficial">Unofficial</string>
