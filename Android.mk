@@ -36,7 +36,8 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     com.google.android.material_material \
     setupcompat \
     setupdesign \
-    VendorSupport-preference
+    VendorSupport-preference \
+    airbnb-lottie
 
 LOCAL_JAVA_LIBRARIES := \
     telephony-common \
@@ -52,7 +53,8 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     settings-log-bridge-protos-lite \
     contextualcards \
     settings-logtags \
-    zxing-core-1.7
+    zxing-core-1.7 \
+    airbnb-lottie
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
